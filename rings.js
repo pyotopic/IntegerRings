@@ -3,7 +3,7 @@ const HEIGHT = 500;
 
 let numPoints = 10;
 let plane = new Plane();
-let integers = new IntegerRing(5);
+let integers = new IntegerRing(1);
 
 
 function setup() {
